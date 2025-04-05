@@ -1,0 +1,14 @@
+# IntelliJ project files
+.idea/
+*.iml
+
+# sbt build
+/target/
+/project/target/
+/project/project/
+
+# Mac
+.DS_Store
+
+# Logs
+*.log
